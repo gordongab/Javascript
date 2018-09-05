@@ -1,8 +1,4 @@
-# Instructions
-
-Create a program that does all of the following:
-
-*Hint:* Flowchart 1 step at a time. Implement that step and when it works properly, flowchart the next.
+A program that does all of the following:
 
 * Prompt the user to input a command, then do the following:
 
